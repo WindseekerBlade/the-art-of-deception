@@ -1,2 +1,2 @@
-# the-art-of-deception
-Thoughts of reading this book.
+# 《欺骗的艺术》
+《欺骗的艺术》是世界著名黑客凯文·米特尼克在2002年推出的一本公益性质的畅销书，全书主题是关于社会工程学，也就是他在整个黑客生涯中最著名的一个观点“人为因素才是安全的软肋”(The human factor is truly security's weakest link.)。
